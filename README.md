@@ -1,5 +1,6 @@
-# selenium_scripts
+selenium_example.py
+-> A simple selenium_script to search something in google
 
 open_devtool_chrome.py
--> open browser chrome with developer tool
+-> Open browser chrome with developer tool
 
