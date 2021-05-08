@@ -4,3 +4,5 @@ selenium_example.py
 open_devtool_chrome.py
 -> Open browser chrome with developer tool
 
+A-buy.py
+-> Selenium script to search game in D2D website
