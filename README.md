@@ -9,3 +9,6 @@ A-buy.py
 
 find_vowel.py
 -> Find vowels in input string
+
+get_new_chrome_drv.py
+-> Verify current chrome driver version and download new version chrome driver
