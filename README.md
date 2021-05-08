@@ -12,3 +12,16 @@ find_vowel.py
 
 get_new_chrome_drv.py
 -> Verify current chrome driver version and download new version chrome driver
+
+print_stars.py
+-> A simple script to print stars
+                  * 
+                * * * 
+              * * * * * 
+            * * * * * * * 
+          * * * * * * * * * 
+        * * * * * * * * * * * 
+      * * * * * * * * * * * * * 
+    * * * * * * * * * * * * * * * 
+  * * * * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * * * * * 
